@@ -1,3 +1,9 @@
+function CardPurchaseButton() {
+    return (
+        <a className="button button--glow button--medium" href="https://3.basecamp.com/signup/account/new?plan=per_user_v3" data-controller="signup" data-action="signup#track">Start Selling with AI</a>
+    )
+}
+
 export default function PricingCard() {
     return (
         <div className="pricing-unit space-top--x-large">
@@ -26,7 +32,7 @@ export default function PricingCard() {
                     </div>
                     <div className="plan-price">
                         <h3>$99/user/month</h3>
-                        <a className="button button--glow button--medium" href="https://3.basecamp.com/signup/account/new?plan=per_user_v3" data-controller="signup" data-action="signup#track">Start Selling with AI</a>
+                        <CardPurchaseButton />
                     </div>
                 </div>
                 {/* left pricing card end */}
@@ -47,7 +53,7 @@ export default function PricingCard() {
                     </div>
                     <div className="plan-price">
                         <h3>$149/user/month, billed annually</h3>
-                        <a className="button button--glow button--medium" href="https://3.basecamp.com/signup/account/new?plan=pro_unlimited_yearly_v1" data-controller="signup" data-action="signup#track" >Start Selling with AI</a>
+                        <CardPurchaseButton />
                     </div>
                 </div>
                 {/* central pricing card end */}
@@ -68,7 +74,7 @@ export default function PricingCard() {
                     </div>
                     <div className="plan-price">
                         <h3>$99/user/month</h3>
-                        <a className="button button--glow button--medium" href="https://3.basecamp.com/signup/account/new?plan=per_user_v3" data-controller="signup" data-action="signup#track">Start Selling with AI</a>
+                        <CardPurchaseButton />
                     </div>
                 </div>
                 {/* right pricing card end */}

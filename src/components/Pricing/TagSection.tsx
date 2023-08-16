@@ -16,7 +16,7 @@ export default function TagSection() {
                             <q><mark>made us more efficient and profitable</mark></q>
                         </blockquote>
                         <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
                         </blockquote>
                     </div>
                     <div className="lockup__row">
@@ -24,21 +24,10 @@ export default function TagSection() {
                             <q><mark>made us more efficient and profitable</mark>.</q>
                         </blockquote>
                         <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
                         </blockquote>
                         <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
-                        </blockquote>
-                    </div>
-                    <div className="lockup__row">
-                        <blockquote className="lockup__quote">
-                            <q><mark>made us more efficient and profitable</mark>.</q>
-                        </blockquote>
-                        <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
-                        </blockquote>
-                        <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
                         </blockquote>
                     </div>
                     <div className="lockup__row">
@@ -46,21 +35,10 @@ export default function TagSection() {
                             <q><mark>made us more efficient and profitable</mark>.</q>
                         </blockquote>
                         <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
                         </blockquote>
                         <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
-                        </blockquote>
-                    </div>
-                    <div className="lockup__row">
-                        <blockquote className="lockup__quote">
-                            <q><mark>made us more efficient and profitable</mark>.</q>
-                        </blockquote>
-                        <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
-                        </blockquote>
-                        <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
                         </blockquote>
                     </div>
                     <div className="lockup__row">
@@ -68,10 +46,32 @@ export default function TagSection() {
                             <q><mark>made us more efficient and profitable</mark>.</q>
                         </blockquote>
                         <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
                         </blockquote>
                         <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
+                        </blockquote>
+                    </div>
+                    <div className="lockup__row">
+                        <blockquote className="lockup__quote">
+                            <q><mark>made us more efficient and profitable</mark>.</q>
+                        </blockquote>
+                        <blockquote className="lockup__quote">
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
+                        </blockquote>
+                        <blockquote className="lockup__quote">
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
+                        </blockquote>
+                    </div>
+                    <div className="lockup__row">
+                        <blockquote className="lockup__quote">
+                            <q><mark>made us more efficient and profitable</mark>.</q>
+                        </blockquote>
+                        <blockquote className="lockup__quote">
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
+                        </blockquote>
+                        <blockquote className="lockup__quote">
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
                         </blockquote>
                     </div>
                     <div className="lockup__row">
@@ -87,7 +87,7 @@ export default function TagSection() {
                             <q><mark>made us more efficient and profitable</mark></q>
                         </blockquote>
                         <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
                         </blockquote>
                     </div>
                     <div className="lockup__row">
@@ -103,7 +103,7 @@ export default function TagSection() {
                             <q><mark>made us more efficient and profitable</mark></q>
                         </blockquote>
                         <blockquote className="lockup__quote">
-                            <q><mark>It's a must-have for anyone</mark>.</q>
+                            <q><mark>It&apos;s a must-have for anyone</mark>.</q>
                         </blockquote>
                     </div>
                 </div>

@@ -3,7 +3,7 @@ export default function IncludingService() {
         <section>
             <div className="headline space-top--xx-large">
                 <header>
-                    <h3>What’s included? AI in everything!</h3>
+                    <h4>What’s included? AI in everything!</h4>
                 </header>
             </div>
             <div className="pricing-grid space-top--x-large">

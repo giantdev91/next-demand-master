@@ -5,7 +5,7 @@ export default function FunctionPlan() {
         <section>
             <div className="headline space-top--xx-large">
                 <header>
-                    <h3>Which functions are in the plans?</h3>
+                    <h4>Which functions are in the plans?</h4>
                 </header>
             </div>
             <div className="plan-grid space-top--x-large">

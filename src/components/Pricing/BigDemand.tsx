@@ -3,7 +3,7 @@ export default function BigDemand() {
         <section>
             <div className="headline space-top--xx-large">
                 <header>
-                    <h3>Save big with Demand</h3>
+                    <h4>Save big with Demand</h4>
                 </header>
                 <article>
                     <p>Demand <strong>Replaces</strong> a lot of manual work, tools and processes in your business saving you both time and money see how we compare to the market:</p>
@@ -36,7 +36,7 @@ export default function BigDemand() {
 
             <div className="pricing-summary space-top--medium">
                 <article>
-                    <p><strong>Demand also eliminates the Hassle Tax. </strong>There's no more paying separate bills, onboarding people in multiple places, training people how to use different tools, forget to followup on LinkedIn, etc... <strong>The benefits of Demand go beyond price.</strong></p>
+                    <p><strong>Demand also eliminates the Hassle Tax. </strong>There&apos;s no more paying separate bills, onboarding people in multiple places, training people how to use different tools, forget to followup on LinkedIn, etc... <strong>The benefits of Demand go beyond price.</strong></p>
                 </article>
             </div>
         </section>
