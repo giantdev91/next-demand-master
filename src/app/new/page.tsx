@@ -19,7 +19,7 @@ export default function WhatsNew() {
                     {/* feature cards start */}
                     <div className="features space-top--large">
                         <div className="features__cards">
-                            <a className="features__card" href="https://basecamp.com/features/home">
+                            <a className="features__card" href="/features/home">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/home-thumbnail-1f21da08396dfcec876d8d9b7a40ec2349bcb54359c19cd46b4899eccec85935.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/home-thumbnail-4041a9d905cd61f5c84f032f49807860b8f745fc60225cd802e1bd00764daa40.png" alt="Organization begins at Home" />
@@ -29,7 +29,7 @@ export default function WhatsNew() {
                                     <dd>A straightforward, one-page dashboard for your projects, assignments, and schedule.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/message-board">
+                            <a className="features__card" href="/features/message-board">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/message-board-thumbnail-2366d44ff7d8b566d0d58d44f37d0904c2aab8c6d5ee36e283d7102afd05fb11.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/message-board-thumbnail-53c250094fe69b29c729d409d52e28678ade40ba3b0771ec8091313bbf405882.png" alt="Stay on topic with Messages" />
@@ -39,7 +39,7 @@ export default function WhatsNew() {
                                     <dd>The centralized place for big discussions about big topics. Completely replaces project emails.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/to-dos">
+                            <a className="features__card" href="/features/to-dos">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/to-dos-thumbnail-2569e48f522e9423d65a9873b1284bc2f210b2e9fb071d2d6ccb181f72f8b663.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/to-dos-thumbnail-98f193b50e065287599a62060575dc307f9072666c8510226c903a0b9d2e4605.png" alt="Track work with To-dos" />
@@ -49,7 +49,7 @@ export default function WhatsNew() {
                                     <dd>The powerful place to track work, deadlines, responsibilities, progress, and details.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/docs-and-files">
+                            <a className="features__card" href="/features/docs-and-files">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/docs-and-files-thumbnail-0a09b360e2edaaccf35e2d45d2fd09cf65f13a191271a701af04ef31ca05d60c.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/docs-and-files-thumbnail-fb1648915f9f4d5d5574dfe8ca0611c95bfa3729fdf9e25dc8fbad156ef4fc92.png" alt="Store, share, and discuss files" />
@@ -59,7 +59,7 @@ export default function WhatsNew() {
                                     <dd>An organized space to create, share, and discuss docs, files (physical and cloud), and images.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/campfire">
+                            <a className="features__card" href="/features/campfire">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/campfire-thumbnail-05348bd0163adf04737aef48747142fcd388172a0a843339a658a3a1fbdd46b7.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/campfire-thumbnail-c9db6db619a9184f12938923d5e5573297054cb7b061241ee119265cd48a8d4d.png" alt="Chat around the Campfire" />
@@ -69,7 +69,7 @@ export default function WhatsNew() {
                                     <dd>Basecamp’s built-in real-time group chat lets you hash stuff out quickly then move on.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/schedule">
+                            <a className="features__card" href="/features/schedule">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/schedule-thumbnail-9b14056025bab7affb1c617b1ed539fa209ef4694078963023f77f9adbfe7d7c.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/schedule-thumbnail-a58630ec5355891f4f02947e069016a58cadf0a7aaf9a59f1b2e3b85a0efa84a.png" alt="Schedule so you don’t forget" />
@@ -95,7 +95,7 @@ export default function WhatsNew() {
                     {/* feature cards start */}
                     <div className="features space-top--x-large">
                         <div className="features__cards">
-                            <a className="features__card" href="https://basecamp.com/features/automatic-check-ins">
+                            <a className="features__card" href="/features/automatic-check-ins">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/automatic-check-ins-thumbnail-26eca7475ad66cebaad0b5cbf5810b6a50aa69c99049d11c6b1a889a052ab4f4.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/automatic-check-ins-thumbnail-cd4ac4e079f5ba7c1d85024743bea74d1861399863f0c25474bf68a35e3a0377.png" alt="Automatically check-in on the regular" />
@@ -105,7 +105,7 @@ export default function WhatsNew() {
                                     <dd>Get answers on a regular basis by automatically polling your team daily, weekly, etc.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/card-table">
+                            <a className="features__card" href="/features/card-table">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/card-table-thumbnail-4167c9d850fe6e006d2088e49db19f75734b5a2c82258ac674c64eb87f124510.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/card-table-thumbnail-abcff73170194b38a09f5f6d1027632979539fad5f1d024cb9ecae43a1068ee4.png" alt="Put workflows on the Card Table" />
@@ -115,7 +115,7 @@ export default function WhatsNew() {
                                     <dd>Our unique take on Kanban improves on the concept in surprising, practical ways.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/lineup">
+                            <a className="features__card" href="/features/lineup">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/lineup-thumbnail-4fc896312061f26bb2c9fadca7c81f07e9b40a50431300836ac7f757b96f1eec.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/lineup-thumbnail-85508cd4ee6482b001eb0e45884c665583cf8868287dfc36c7f630c53b8f8d94.png" alt="Get a clear bird’s eye view" />
@@ -125,7 +125,7 @@ export default function WhatsNew() {
                                     <dd>“The Lineup” gives you a big picture view of projects in play, from start date to end date.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/doors">
+                            <a className="features__card" href="/features/doors">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/doors-thumbnail-9bf3ec04f6f003ed30cd23f42e1f0ae7d7e86c005da878b2c8cb73f6c62cf243.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/doors-thumbnail-37c523d6836926dfd9c25e1b26285907e0cec35e8af77e74894dde19bc8f50fc.png" alt="Open a door to the world" />
@@ -135,7 +135,7 @@ export default function WhatsNew() {
                                     <dd>“Doors” let you link up other services you use right alongside Basecamp’s built-in tools.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/all-access">
+                            <a className="features__card" href="/features/all-access">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/all-access-thumbnail-96c2dea7f2f39fb9b8e6c13ba3df3b84f481f8bb956e374e2b7b42eb02bff314.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/all-access-thumbnail-a603d88e3995ee0f052f19433ab7fb9470609da69fb23e67396a6216e1bfb4c7.png" alt="Collaborate seamlessly" />
@@ -145,7 +145,7 @@ export default function WhatsNew() {
                                     <dd>With “All-access” anyone in your Basecamp account can see and join projects.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/activity-reports">
+                            <a className="features__card" href="/features/activity-reports">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/activity-reports-thumbnail-50d893472fd08c0e4b00fa0ca3253bac02b0b0987b10674b0d3717247422a6ed.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/activity-reports-thumbnail-69a0b05594bbc5646c5170993bd3cebcfb34a6720d4fd909b614c8904ead4577.png" alt="Be a likeable know-it-all" />
@@ -171,7 +171,7 @@ export default function WhatsNew() {
                     {/* feature cards start */}
                     <div className="features space-top--x-large">
                         <div className="features__cards">
-                            <a className="features__card" href="https://basecamp.com/features/pings">
+                            <a className="features__card" href="/features/pings">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/pings-thumbnail-37c2c9303afa44c0a0b9262d2749d4ef0651b8bdafda9387200afe68bd7bd0cc.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/pings-thumbnail-71120ce26d772eb83b5b978473681d4fd5cef4ad928dd9765912bb60228aede4.png" alt="Just ping ’em" />
@@ -181,7 +181,7 @@ export default function WhatsNew() {
                                     <dd>Our version of Direct Messages, Pings let you kick off ad hoc chats 1:1 or in small groups.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/hill-charts">
+                            <a className="features__card" href="/features/hill-charts">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/hill-charts-thumbnail-6091183b1ce7797a4ef7e414159c1b553830289603fdef08dc2dc13c6f707378.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/hill-charts-thumbnail-66c002f1f70801ef6130dd35e8c1e228347bd3d1fe5bb8d0dc86c4f2b54d8193.png" alt="See reality with Hill Charts" />
@@ -191,7 +191,7 @@ export default function WhatsNew() {
                                     <dd>Invented here, Hill Charts give you a visual, intuitive sense of where projects really stand.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/cloud-files">
+                            <a className="features__card" href="/features/cloud-files">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/cloud-files-thumbnail-17b67387e48112691890b99fa9a8b0ee0b6f1c4d3164cfa9b4400b3d0c5b888c.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/cloud-files-thumbnail-258b8a81d6b3e7404276ca1f7e5da45f79e3863099563b8c7078f39cb50cf344.png" alt="Hook up all the clouds" />
@@ -201,7 +201,7 @@ export default function WhatsNew() {
                                     <dd>We’ve added cloud file support for Figma, Airtable, Dropbox, Adobe, Notion, and loads more.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/my-stuff">
+                            <a className="features__card" href="/features/my-stuff">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/my-stuff-thumbnail-6f33f94b7a82d7b25216e5c68bb2c5b2e20c6458e31539b3a17d58301abcc8dd.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/my-stuff-thumbnail-267cf01fc9c34e245e3c035844769f7523e4a5ec747bd1e659582b0638a0bd7f.png" alt="One click to everything yours" />
@@ -211,7 +211,7 @@ export default function WhatsNew() {
                                     <dd>Get instant access to your schedule, assignments, drafts, bookmarks, activity, etc.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/latest-activity">
+                            <a className="features__card" href="/features/latest-activity">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/latest-activity-thumbnail-f788b377a7af62f870d5dc5cb8b0eb4960a65ae845be5710675a4bebc2d4c47e.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/latest-activity-thumbnail-ba972ca952bed024117924093d93d0f841708774126e2a95c6d2fa7d4bd54c28.png" alt="Play-by-play, minute-by-minute" />
@@ -221,7 +221,7 @@ export default function WhatsNew() {
                                     <dd>Take in everything that happens across every project in real-time — on a single page.</dd>
                                 </dl>
                             </a>
-                            <a className="features__card" href="https://basecamp.com/features/notification-settings">
+                            <a className="features__card" href="/features/notification-settings">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/notification-settings-thumbnail-a20f98e4a856d5c6f21b6cbecad24caf34fb3608a3f027be0725c6c97f138fec.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/notification-settings-thumbnail-eae3d3cee311ce5c6313ce2574d3901d846a2253f17124cee469ac2ff0b80b1c.png" alt="Control how people can reach you" />
@@ -247,7 +247,7 @@ export default function WhatsNew() {
                     {/* feature cards start */}
                     <div className="features space-top--x-large">
                         <div className="features__cards">
-                            <a className="features__card" href="https://basecamp.com/features/hey-menu">
+                            <a className="features__card" href="/features/hey-menu">
                                 <picture>
                                     <source srcSet="/assets/images/screenshots/hey-menu-thumbnail-bae02f756fb967320b37d80dde129684aeb655be4c6efd9f0dc73f4a25c95188.webp" type="image/webp" />
                                     <img src="/assets/images/screenshots/hey-menu-thumbnail-aac53e187bb96b26afacd4b7245b8504fe76fe19f20b3ce52cfee12217410fb2.png" alt="Be notified in one place" />

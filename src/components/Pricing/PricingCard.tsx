@@ -1,6 +1,6 @@
 function CardPurchaseButton() {
     return (
-        <a className="button button--glow button--medium" href="https://3.basecamp.com/signup/account/new?plan=per_user_v3" data-controller="signup" data-action="signup#track">Start Selling with AI</a>
+        <a className="button button--glow button--medium" href="/pricing" data-controller="signup" data-action="signup#track">Start Selling with AI</a>
     )
 }
 

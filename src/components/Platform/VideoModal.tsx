@@ -141,7 +141,7 @@ export default function VideoModal() {
                                 <source srcSet="/assets/screenshots/hill-charts-bcb208f51d8388753d0425a01e1c97619715353da29468852011d94292ba145d.webp" type="image/webp" />
                                 <img src="/assets/screenshots/hill-charts-1d43238ad79fd90fe0e868aefc7a695f812544273d4f592c6bc81206446230ea.png" alt="Hill Charts" />
                                 <figcaption className="align-top justify-left dot dot--blue">
-                                    <p>Progress is more like a hill than a straight line. Basecamp-exclusive <strong>Hill Charts provide a unique look into what remains</strong> to figure out (uphill), and what’s in production (downhill). <a href="https://basecamp.com/hill-charts">Hmm, tell me more</a>.</p>
+                                    <p>Progress is more like a hill than a straight line. Basecamp-exclusive <strong>Hill Charts provide a unique look into what remains</strong> to figure out (uphill), and what’s in production (downhill). <a href="/hill-charts">Hmm, tell me more</a>.</p>
                                 </figcaption>
                                 <figcaption className="align-bottom justify-right dot dot--teal">
                                     <p>Invented here, and only available in Basecamp, Hill Charts are game changers. Once you use them you’ll never want to work without them again.</p>
@@ -172,7 +172,7 @@ export default function VideoModal() {
                                 <source srcSet="/assets/screenshots/doors-framed-f80a47a9a9e7e51d23edf16d961c1072908a56fa165946e5cb4408cf3cb0b00c.webp" type="image/webp" />
                                 <img src="/assets/screenshots/doors-framed-714b618bc7551a8c9f19fba132393f1c6cca1e06901125abaeea900893082d72.png" alt="Doors" />
                                 <figcaption className="align-bottom justify-right dot dot--teal">
-                                    <p>Got a service you use that isn’t represented here? <a href="https://basecamp.com/support">Get in touch</a> and we’ll do our best to add it for you.</p>
+                                    <p>Got a service you use that isn’t represented here? <a href="/support">Get in touch</a> and we’ll do our best to add it for you.</p>
                                 </figcaption>
                             </picture>
                         </div>

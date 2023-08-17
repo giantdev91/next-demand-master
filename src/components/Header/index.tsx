@@ -3,9 +3,6 @@ import Image from 'next/image'
 export default function Header() {
     return (
         <header className="header">
-            {/* <a className="header__notification" href="https://basecamp.com/old-vs-new">
-                <p>Small runs circles around big. Watch our latest video <strong>Old vs. New</strong> championing the underdogs, like you!</p>
-            </a> */}
             <div className="header__container">
                 <a className="header__logo" href="/">
                     <figure>
