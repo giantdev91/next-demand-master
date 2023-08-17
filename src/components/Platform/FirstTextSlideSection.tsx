@@ -1,4 +1,4 @@
-export default function TextSlideSection() {
+export default function FirstTextSlideSection() {
     return (
         <section>
             <div className="uo-text uo-text--has-aside uo-space--transition-bottom uo-space--transition-top uo-shape--dark-top">

@@ -1,4 +1,4 @@
-export default function TranslationSection() {
+export default function FirstTransitionSection() {
     return (
         <section className="space-top--xxx-large">
             <div className="uo-transition space-top--xx-large">

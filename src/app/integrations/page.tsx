@@ -1,8 +1,8 @@
-import GridItem from "@/components/Integration/GridItem";
-import TypeBanner from "@/components/Integration/TypeBanner";
+import GridItem from "@/components/Integrations/GridItem";
+import TypeBanner from "@/components/Integrations/TypeBanner";
 import Layout from "@/components/Layout";
 
-export default function Integration() {
+export default function Integrations() {
     return (
         <Layout>
             <main className="main">

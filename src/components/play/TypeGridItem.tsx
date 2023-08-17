@@ -14,7 +14,7 @@ export default function TypeGridItem({ title, content }: {
             </div>
             <div className='content-section'>
                 <p>{content}</p>
-                <a><p className='link'>View Play &gt;</p></a>
+                <a href="/plays/new"><p className='link'>View Play &gt;</p></a>
             </div>
         </div>
     )
