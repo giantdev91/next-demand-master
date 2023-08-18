@@ -205,9 +205,9 @@ class modal {
                 var t = document.querySelector(".uo-modal__content--open");
                 if (t.querySelector(".video")) {
                     document.querySelector(".uo-modal").classList.add("uo-modal--video");
-                    var o = t.querySelector("video");
+                    var o = t.querySelector("iframe");
                     o.setAttribute("controls", "controls"),
-                    o.play(),
+                    // o.play(),
                     t.querySelector(".video__embed").classList.add("video__embed--playing")
                 }
             }
@@ -217,7 +217,7 @@ class modal {
                     document.querySelector(".uo-modal__container").scrollTo(0, 0);
                     var e = document.querySelector(".uo-modal__content--open");
                     if (e.querySelector(".video")) {
-                        var t = e.querySelector("video");
+                        var t = e.querySelector("iframe");
                         t.removeAttribute("controls"),
                         t.pause(),
                         t.load(),
@@ -355,10 +355,10 @@ class tagline {
 class video {
     static ready() {
         if (document.querySelectorAll(".video__embed").forEach(e=>{
-            var t = e.querySelector("video")
+            var t = e.querySelector("iframe")
               , o = t.textTracks
               , s = t.dataset.event;
-            o[0] && (o[0].mode = "hidden"),
+            // o[0] && (o[0].mode = "hidden"),
             e.querySelector("button").addEventListener("click", function() {
                 t.paused ? t.play() : t.pause()
             }),
@@ -394,8 +394,8 @@ class video {
                         var s = e.querySelector(".video__embed.selected");
                         t.querySelector("button.selected").classList.remove("selected"),
                         o.classList.add("selected"),
-                        s.querySelector("video").removeAttribute("controls"),
-                        s.querySelector("video").load(),
+                        s.querySelector("iframe").removeAttribute("controls"),
+                        s.querySelector("iframe").load(),
                         s.classList.remove("selected", "video__embed--playing"),
                         e.querySelector(".video__embed." + o.dataset.video).classList.add("selected")
                     }

@@ -9,13 +9,16 @@ export default function VideoModal() {
                             <div className="video__embed video__embed--playing">
                                 <iframe
                                     id="a-quick-overview"
+                                    width="800"
+                                    height="600"
                                     data-event="A Quick Overview"
                                     // preload="none"
                                     // poster="/assets/home/a-quick-overview-d393c3d3f3334f815fe3294c017045dad4e7441269ed85f7319b30fa8b390edc.webp"
-                                    src="https://www.youtube.com/watch?v=SePcsn4MuvU"
-                                    width="100%"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
+                                    // width="100%"
                                     // playsInline={false}
                                     // controls={true}
+                                    allowFullScreen={true}
                                 ></iframe>
                                 <button>
                                     <span>Watch “A Quick Overview”</span>
@@ -31,7 +34,7 @@ export default function VideoModal() {
                                     data-event="Made in Basecamp"
                                     // preload="none"
                                     // poster="/assets/made-in-basecamp/made-in-basecamp-d9939c2376e5b49fbcf56c5a5f2b693b4dff1626f34a5b7896ea24f87761bb46.webp"
-                                    src="https://www.youtube.com/watch?v=SePcsn4MuvU"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     width="100%"
                                     // playsInline={false}
                                 ></iframe>
@@ -49,7 +52,7 @@ export default function VideoModal() {
                                     data-event="Organizing a Meet-up"
                                     // preload="none"
                                     // poster="/assets/organizing-a-meet-up/organizing-a-meet-up-318fd3b80b43b8d6a45ef1d6f6d031f599359cfe73f4835907330e439ac12685.webp"
-                                    src="https://www.youtube.com/watch?v=SePcsn4MuvU"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     width="100%"
                                     // playsInline={false}
                                 ></iframe>
@@ -67,7 +70,7 @@ export default function VideoModal() {
                                     data-event="Hilary Fitzgerald Campbell"
                                     // preload="none"
                                     // poster="/assets/hilary-fitzgerald-campbell/hilary-fitzgerald-campbell-942634ac54365a9d90d1b9ee13ad3ee2769fd57c891917722bc574ccbc2e6be7.webp"
-                                    src="https://www.youtube.com/watch?v=SePcsn4MuvU"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     width="100%"
                                     // playsInline={false}
                                 ></iframe>
