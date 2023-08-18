@@ -21,242 +21,113 @@ export default function Customers() {
                     <div className="quotes space-top--x-large">
                         <div className="quotes__container">
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
-                                <cite>- Samantha W.</cite>
-                            </blockquote>
-
-                            <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
-                                <cite>- Jason M.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
-                                <cite>- Jason M.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
-                                <cite>- Jason M.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
-                                <cite>- Jason M.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
-                                <cite>- Jason M.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
-                                <cite>- Jason M.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
-                                <cite>- Jason M.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
-                                <cite>- Jason M.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
-                                <cite>- Jason M.</cite>
-                            </blockquote>
-
-                            <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
-                                <cite>- Emily R.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
-                                <cite>- Emily R.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
-                                <cite>- Emily R.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
-                                <cite>- Emily R.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
-                                <cite>- Emily R.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
-                                <cite>- Emily R.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
-                                <cite>- Emily R.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
-                                <cite>- Emily R.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
-                                <cite>- Emily R.</cite>
-                            </blockquote>
-
-                        </div>
-                    </div>
-                    {/* quote end */}
-
-                    {/* callout space start */}
-                    <div className="callout space-top--x-large">
-                        <div className="callout__frame">
-                            <blockquote>
-                                <q>Kudos to Demand for<span className="text-highlight"> making lead generation effortless! This platform is a time-saving marvel for our sales team.</span></q>
-                                <cite>- Alex H.</cite>
-                            </blockquote>
-                        </div>
-                    </div>
-                    {/* callout space end */}
-
-                    {/* quote start */}
-                    <div className="quotes space-top--x-large">
-                        <div className="quotes__container">
-                            <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
-                                <cite>- Samantha W.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
-                                <cite>- Samantha W.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
-                                <cite>- Samantha W.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
-                                <cite>- Samantha W.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
-                                <cite>- Samantha W.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
-                                <cite>- Samantha W.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
-                                <cite>- Samantha W.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
-                                <cite>- Samantha W.</cite>
-                            </blockquote>
-                            <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
 
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
 
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
 
@@ -279,113 +150,242 @@ export default function Customers() {
                     <div className="quotes space-top--x-large">
                         <div className="quotes__container">
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it's saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
                                 <cite>- Samantha W.</cite>
                             </blockquote>
 
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform's AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
                                 <cite>- Jason M.</cite>
                             </blockquote>
 
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
                             <blockquote>
-                                <q>Demand AI's intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can't imagine sales without it!</span></q>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
+                                <cite>- Emily R.</cite>
+                            </blockquote>
+
+                        </div>
+                    </div>
+                    {/* quote end */}
+
+                    {/* callout space start */}
+                    <div className="callout space-top--x-large">
+                        <div className="callout__frame">
+                            <blockquote>
+                                <q>Kudos to Demand for<span className="text-highlight"> making lead generation effortless! This platform is a time-saving marvel for our sales team.</span></q>
+                                <cite>- Alex H.</cite>
+                            </blockquote>
+                        </div>
+                    </div>
+                    {/* callout space end */}
+
+                    {/* quote start */}
+                    <div className="quotes space-top--x-large">
+                        <div className="quotes__container">
+                            <blockquote>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <cite>- Samantha W.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <cite>- Samantha W.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <cite>- Samantha W.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <cite>- Samantha W.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <cite>- Samantha W.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <cite>- Samantha W.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <cite>- Samantha W.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <cite>- Samantha W.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI has been<span className="text-highlight"> a game-changer for our team. As a sales rep, it&apos;s saved me hours daily and led to a noticeable boost in leads. Highly impressed!</span></q>
+                                <cite>- Samantha W.</cite>
+                            </blockquote>
+
+                            <blockquote>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <cite>- Jason M.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <cite>- Jason M.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <cite>- Jason M.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <cite>- Jason M.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <cite>- Jason M.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <cite>- Jason M.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <cite>- Jason M.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <cite>- Jason M.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Impressive results with<span className="text-highlight"> Demand AI! The platform&apos;s AI-driven lead identification has supercharged our sales efforts. Thank you for making our work easier.</span></q>
+                                <cite>- Jason M.</cite>
+                            </blockquote>
+
+                            <blockquote>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
+                                <cite>- Emily R.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
+                                <cite>- Emily R.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
+                                <cite>- Emily R.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
+                                <cite>- Emily R.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
+                                <cite>- Emily R.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
+                                <cite>- Emily R.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
+                                <cite>- Emily R.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
+                                <cite>- Emily R.</cite>
+                            </blockquote>
+                            <blockquote>
+                                <q>Demand AI&apos;s intelligent<span className="text-highlight"> approach to LinkedIn outreach is remarkable. It has streamlined our prospecting process, and I can&apos;t imagine sales without it!</span></q>
                                 <cite>- Emily R.</cite>
                             </blockquote>
 

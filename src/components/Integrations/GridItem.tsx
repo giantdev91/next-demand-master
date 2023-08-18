@@ -8,7 +8,7 @@ export default function GridItem({ image, content }: {
         <div className="grid-item">
             <figure className="title">
                 {
-                    image && <img src={image} alt="service-logo" />
+                    image && <Image src={image} alt="service-logo" width={50} height={50} />
                 }
                 {
                     !image && (

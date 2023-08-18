@@ -12,7 +12,7 @@ export default function Header() {
                     <div className="header__tagline header__tagline--js header__tagline--stars"><span>“AI IS A GAME CHANGER”</span></div>
                 </a>
                 <ul className="header__options">
-                    <li><a className="button button--small button--text" href="/new">WHAT'S NEW?</a></li>
+                    <li><a className="button button--small button--text" href="/new">WHAT&apos;S NEW?</a></li>
                     <li><a className="button button--small button--text" href="/plays">PLAYS</a></li>
                     <li><a className="button button--small button--text" href="/pricing">PRICING</a></li>
                     <li><a className="button button--small button--text" href="/integrations">INTEGRATIONS</a></li>
