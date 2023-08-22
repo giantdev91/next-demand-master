@@ -8760,8 +8760,8 @@ a.uo-pill:focus {
 }
 
 .uo-text__aside button div figure:after {
-    background: url(/assets/images/play.svg)
-        54% center no-repeat var(--color-white);
+    background: url(/assets/images/play.svg) 54% center no-repeat
+        var(--color-white);
     background-size: 30% 30%;
     border-radius: 100%;
     box-shadow: 0 0 0 1px rgba(var(--rgb-black), 0.05),
@@ -9542,8 +9542,8 @@ html.video-modal-active .video-modal {
 
 .video__embed button span {
     align-items: center;
-    background: url(/assets/images/play.svg)
-        1.3em center no-repeat var(--color-white);
+    background: url(/assets/images/play.svg) 1.3em center no-repeat
+        var(--color-white);
     background-size: 0.8em 0.8em;
     border-radius: 1.55em;
     box-shadow: 0 0 0 1px rgba(var(--rgb-black), 0.05),
@@ -10968,3 +10968,134 @@ html.video-modal-active .video-modal {
 }
 
 /*# sourceMappingURL=/assets/source-maps/style.scss.map */
+.prism .w-full {
+    width: 100%;
+}
+.prism .h-full {
+    height: 100%;
+}
+.prism .top-0 {
+    top: 0;
+}
+.prism .left-0 {
+    left: 0;
+}
+.prism .absolute {
+    position: absolute;
+}
+.prism .block {
+    display: block;
+    background: none;
+    padding: unset;
+}
+
+.prism-imagedragger input[type="range"] {
+    margin-left: -1.5rem;
+    position: relative;
+    width: calc(100% + 3rem);
+}
+.prism .bg-transparent {
+    background-color: transparent;
+}
+.prism .appearance-none {
+    /* -webkit-appearance: none; */
+    -moz-appearance: none;
+    /* appearance: none; */
+}
+.prism .cursor-pointer {
+    cursor: pointer;
+}
+.prism .bg-transparent {
+    background-color: transparent !important;
+}
+
+.prism-imagedragger input[type="range"] {
+    margin-left: -1.5rem;
+    position: relative;
+    width: calc(100% + 3rem);
+}
+
+.prism-imagedragger input[type="range"]:focus-visible::-webkit-slider-thumb {
+    border: 6px solid #0f70e6;
+}
+
+.prism-imagedragger input[type="range"]::-webkit-slider-runnable-track {
+    background: transparent;
+}
+
+.prism-imagedragger input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    background: rgba(45, 45, 45, 0.75);
+    background-image: url(/assets/images/imagedragger-thumb-arrows.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;
+    border-radius: 9999px;
+    box-shadow: 0 0 56px #45454533;
+    cursor: -webkit-grab;
+    cursor: grab;
+    height: 3rem;
+    -webkit-transition: ease-in-out;
+    transition: ease-in-out;
+    transition-duration: 0.1s;
+    width: 3rem;
+}
+
+.prism-imagedragger input[type="range"]::-moz-range-thumb {
+    -webkit-appearance: none;
+    background: rgba(45, 45, 45, 0.75);
+    background-image: url(/assets/images/imagedragger-thumb-arrows.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;
+    border-radius: 9999px;
+    box-shadow: 0 0 56px #45454533;
+    cursor: grab;
+    height: 3rem;
+    -moz-transition: ease-in-out;
+    transition: ease-in-out;
+    transition-duration: 0.1s;
+    width: 3rem;
+}
+
+.prism-imagedragger input[type="range"]::-ms-thumb {
+    -webkit-appearance: none;
+    background: rgba(45, 45, 45, 0.75);
+    background-image: url(/assets/assets/images/imagedragger-thumb-arrows.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    border: 2px solid #fff;
+    border-radius: 9999px;
+    box-shadow: 0 0 56px #45454533;
+    cursor: grab;
+    height: 3rem;
+    -ms-transition: ease-in-out;
+    transition: ease-in-out;
+    transition-duration: 0.1s;
+    width: 3rem;
+}
+
+.prism-imagedragger input[type="range"]::-webkit-slider-thumb:active,
+.prism-imagedragger input[type="range"]::-webkit-slider-thumb:focus,
+.prism-imagedragger input[type="range"]::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+    transform-origin: center center;
+}
+
+.prism-imagedragger input[type="range"]::-webkit-slider-thumb:active,
+.prism-imagedragger input[type="range"]::-webkit-slider-thumb:focus {
+    cursor: -webkit-grabbing;
+    cursor: grabbing;
+}
+
+.prism-imagedragger input[type="range"][disabled]::-webkit-slider-thumb {
+    display: none;
+}
+
+.prism-imagedragger input[type="range"][disabled]::-moz-range-thumb {
+    display: none;
+}
+
+.prism-imagedragger input[type="range"][disabled]::-ms-thumb {
+    display: none;
+}
