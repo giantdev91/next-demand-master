@@ -7,10 +7,20 @@ export default function VideoModal() {
                     <div className="uo-modal__content uo-modal__content--a-quick-overview uo-modal__content--open">
                         <div className="video video--full">
                             <div className="video__embed video__embed--playing">
+                                {/* <video
+                                    id="a-quick-overview"
+                                    data-event="A Quick Overview"
+                                    preload="none"
+                                    poster="/assets/home/a-quick-overview-d393c3d3f3334f815fe3294c017045dad4e7441269ed85f7319b30fa8b390edc.webp"
+                                    src="/assets/home/a-quick-overview-60-6c8d8f27bddf888b5660ba3f3388d16a0f22c6f82ce0762b981def7333919526.mp4"
+                                    width="100%"
+                                    playsInline={false}
+                                    controls={true}>
+                                </video> */}
                                 <iframe
                                     id="a-quick-overview"
-                                    width="800"
-                                    height="600"
+                                    width="100%"
+                                    height="auto"
                                     data-event="A Quick Overview"
                                     // preload="none"
                                     // poster="/assets/home/a-quick-overview-d393c3d3f3334f815fe3294c017045dad4e7441269ed85f7319b30fa8b390edc.webp"
@@ -36,7 +46,7 @@ export default function VideoModal() {
                                     // poster="/assets/made-in-basecamp/made-in-basecamp-d9939c2376e5b49fbcf56c5a5f2b693b4dff1626f34a5b7896ea24f87761bb46.webp"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     width="100%"
-                                    // playsInline={false}
+                                // playsInline={false}
                                 ></iframe>
                                 <button>
                                     <span>Watch “Made in Basecamp”</span>
@@ -54,7 +64,7 @@ export default function VideoModal() {
                                     // poster="/assets/organizing-a-meet-up/organizing-a-meet-up-318fd3b80b43b8d6a45ef1d6f6d031f599359cfe73f4835907330e439ac12685.webp"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     width="100%"
-                                    // playsInline={false}
+                                // playsInline={false}
                                 ></iframe>
                                 <button>
                                     <span>Watch “Organizing a Meet-up”</span>
@@ -72,7 +82,7 @@ export default function VideoModal() {
                                     // poster="/assets/hilary-fitzgerald-campbell/hilary-fitzgerald-campbell-942634ac54365a9d90d1b9ee13ad3ee2769fd57c891917722bc574ccbc2e6be7.webp"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     width="100%"
-                                    // playsInline={false}
+                                // playsInline={false}
                                 ></iframe>
                                 <button>
                                     <span>

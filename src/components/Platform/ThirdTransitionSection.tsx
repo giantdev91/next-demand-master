@@ -74,7 +74,7 @@ export default function ThirdTransitionSection() {
                     <div className="uo-quotes__body uo-quotes__body--full space-top--medium ">
                         <div className="uo-quotes__content">
                             <p><a href="/customers" style={{ color: 'var(--color-black)' }}>Here’s another 100 testimonials</a>. Read ‘em, or try Demand and see the difference yourself.</p>
-                            <a className="button button--glow " href="/pricing" >Start my account, sell more with AI</a>
+                            <a className="button button--glow button--medium" href="/pricing" >Start my account, sell more with AI</a>
                         </div>
                     </div>
 

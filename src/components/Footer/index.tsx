@@ -52,7 +52,7 @@ export default function Footer() {
                             </div>
                             <div style={{ flexDirection: 'column', flex: 1, display: 'flex' }}>
                                 <div className={styles.addToChromeBtnBack}>
-                                    <div style={{ width: 30, height: 30, marginRight: 10 }}>
+                                    <div style={{ width: '1em', height: '1em', marginRight: 10 }}>
                                         <Image src="/assets/images/chrome.png" alt="chrome" width={35} height={35} />
                                     </div>
                                     <span className={styles.navLabel}>Add to Chrome</span>
