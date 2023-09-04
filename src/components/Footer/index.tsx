@@ -63,11 +63,11 @@ export default function Footer() {
                 </div>
                 <div className={styles.bottomNav}>
                     <div className={styles.leftBottomNav}>
-                        <span className={styles.bottomNavLabel}>Terms of Service</span>
+                        <a href="/termsOfService" className={styles.bottomNavLabel}>Terms of Service</a>
                         <div className={styles.vl}></div>
-                        <span className={styles.bottomNavLabel}>Data Terms</span>
+                        <a href="/dataTerms" className={styles.bottomNavLabel}>Data Terms</a>
                         <div className={styles.vl}></div>
-                        <span className={styles.bottomNavLabel}>Privacy Policy</span>
+                        <a href="/privacyPolicy" className={styles.bottomNavLabel}>Privacy Policy</a>
                     </div>
                     <div className={styles.rightBottomNav}>
                         <div className={styles.linkLogo}>

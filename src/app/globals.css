@@ -11198,3 +11198,8 @@ html.video-modal-active .video-modal {
 .prism-imagedragger input[type="range"][disabled]::-ms-thumb {
     display: none;
 }
+
+section.terms-of-policy {
+    font-size: 1rem;
+    line-height: 2rem;
+}
