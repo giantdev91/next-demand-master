@@ -44,11 +44,15 @@ export default function PricingCard() {
                         <p>For go to market teams that want’s to benefit <br />from Linkedin, Email Outreach, Social Selling <br />and identify visitor automations. All based on <br />AI saving teams hours per day.</p>
                         <p className="hint">Everything in Sales and Social Selling modules</p>
                         <ul>
-                            <li>Social Selling Monitoring</li>
-                            <li>Workflow for comments</li>
-                            <li>AI Automation for comments</li>
-                            <li>Personalised comments</li>
-                            <li>Automatically Like posts</li>
+                            <li>Sales Acceleration Functions</li>
+                            <li>Social Selling Functions</li>
+                            <li>Visitor tracking 200/month</li>
+                            <li>People Tracking 40/month</li>
+                            <li>1 Onboarding Session</li>
+                            <li>First-in-line support priority</li>
+                            <li>Option to pay annually by Wire transfer</li>
+                            <li>Annual invoice for simplified accounting</li>
+                            <li>Early access to new AI functions</li>
                         </ul>
                     </div>
                     <div className="plan-price">
@@ -62,7 +66,7 @@ export default function PricingCard() {
                 <div className="pricing-unit__plan pricing-unit__plan--standard">
                     <div className="plan-content">
                         <h2>Social Selling</h2>
-                        <p>When you want to build a <br />strong brand on LinkedIn and engage with potential <br />customers in public.</p>
+                        <p>When you want to build a <br />strong brand on LinkedIn <br />and engage with potential <br />customers in public.</p>
                         <p className="hint">Sales Navigator is required:</p>
                         <ul>
                             <li>Social Selling Monitoring</li>

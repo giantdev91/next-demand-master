@@ -5825,21 +5825,12 @@ table th {
 
 .pricing-compare__app dl dd ul li {
     --flow-space: 0.1em;
-    background: url(/assets/new/icon-check-green-a5e036384d59a9d1760c72b213f3105f7ba2af7d0dfac87009a18295a2006a0f.svg)
-        left center no-repeat;
+    background: url(/assets/images/check_01.svg) left center no-repeat;
     background-size: 0.9em 0.9em;
     padding-left: 1.25em;
 }
 
-.pricing-compare__app--equals {
-    height: 15em;
-}
-
-.pricing-compare__app--plus {
-    height: 5em;
-}
-
-/* .pricing-compare__app--plus:before,
+.pricing-compare__app--plus:before,
 .pricing-compare__app--equals:after {
     align-items: center;
     background: var(--color-white);
@@ -5858,15 +5849,23 @@ table th {
     transform: translate(-50%, 50%);
     width: 1.2em;
     z-index: 1;
-} */
+}
 
-/* .pricing-compare__app--plus:before {
+.pricing-compare__app--plus:before {
     content: "+";
-} */
+}
 
-/* .pricing-compare__app--equals:after {
+.pricing-compare__app--equals:after {
     content: "=";
-} */
+}
+
+.pricing-compare__app--equals {
+    height: 15em;
+}
+
+.pricing-compare__app--plus {
+    height: 5em;
+}
 
 .pricing-compare__total {
     position: relative;
@@ -6648,7 +6647,7 @@ table th {
     .pricing-unit__plan--standard {
         border-radius: 0.5em 0.5em 0 0;
         order: 0;
-        width: 22em;
+        width: 18em;
         height: 30em;
     }
 
