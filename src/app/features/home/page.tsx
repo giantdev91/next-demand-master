@@ -4,7 +4,7 @@ import Layout from "@/components/Layout";
 export default function WhatsNew() {
     return (
         <Layout>
-            <main classNameName="main">
+            <main className="main">
                 <div className="features">
                     <div className="features__content">
 
@@ -17,8 +17,8 @@ export default function WhatsNew() {
 
                         <div className="screenshot screenshot--has-captions space-top--large">
                             <picture>
-                                <source srcSet="/assets/screenshots/home-ce2915e5cd0523222bcfdc3c90d2304b85594a1c36fac3d22a17a882327a8c54.webp" type="image/webp" />
-                                <img src="/assets/screenshots/home-cc08704d01679f8015aa8bca3bcdc8fe924ae8439e996e32f59da7541605b1ce.png" alt="" />
+                                <source srcSet="/assets/images/screenshots/home.webp" type="image/webp" />
+                                <img src="/assets/images/screenshots/home.png" alt="" />
                                 <figcaption className="align-top justify-left dot dot--teal">
                                     <p>Add your logo, <strong>pin and reorder your most important projects</strong> at the top. Recently visited projects show up below, so the stuff you’re frequenting is always close by. Aside from your logo (which is shared across your account), <strong>every person can set their home page however they like.</strong></p>
                                 </figcaption>
@@ -29,15 +29,15 @@ export default function WhatsNew() {
                         </div>
 
                         <div className="features__continue">
-                            <p>Next up: <a href="https://basecamp.com/features/message-board">Stay on topic with Messages</a></p>
+                            <p>Next up: <a href="/features/message-board">Stay on topic with Messages</a></p>
                         </div>
 
                         <div className="features__control features__control--next">
-                            <a href="https://basecamp.com/features/message-board"></a>
+                            <a href="/features/message-board"></a>
                         </div>
 
                         <div className="features__control features__control--prev">
-                            <a href="https://basecamp.com/features/hey-menu"></a>
+                            <a href="/features/hey-menu"></a>
                         </div>
                     </div>
                 </div>

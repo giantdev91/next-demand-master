@@ -217,11 +217,11 @@ export default function VideoModal() {
                         <div className="screenshot">
                             <picture>
                                 <source
-                                    srcSet="/assets/screenshots/campfire-framed.webp"
+                                    srcSet="/assets/images/screenshots/campfire-framed.webp"
                                     type="image/webp"
                                 />
                                 <img
-                                    src="/assets/screenshots/campfire-framed.png"
+                                    src="/assets/images/screenshots/campfire-framed.png"
                                     alt="Campfire"
                                 />
                             </picture>
@@ -241,11 +241,11 @@ export default function VideoModal() {
                         <div className="screenshot screenshot--has-captions">
                             <picture>
                                 <source
-                                    srcSet="/assets/screenshots/card-table-framed.webp"
+                                    srcSet="/assets/images/screenshots/card-table-framed.webp"
                                     type="image/webp"
                                 />
                                 <img
-                                    src="/assets/screenshots/card-table-framed.png"
+                                    src="/assets/images/screenshots/card-table-framed.png"
                                     alt="Card Table"
                                 />
                                 <figcaption className="align-bottom justify-right dot dot--teal">
@@ -277,11 +277,11 @@ export default function VideoModal() {
                         <div className="screenshot">
                             <picture>
                                 <source
-                                    srcSet="/assets/screenshots/docs-and-files-framed.webp"
+                                    srcSet="/assets/images/screenshots/docs-and-files-framed.webp"
                                     type="image/webp"
                                 />
                                 <img
-                                    src="/assets/screenshots/docs-and-files-framed.png"
+                                    src="/assets/images/screenshots/docs-and-files-framed.png"
                                     alt="Docs &amp; Files"
                                 />
                             </picture>
@@ -301,11 +301,11 @@ export default function VideoModal() {
                         <div className="screenshot screenshot--has-captions">
                             <picture>
                                 <source
-                                    srcSet="/assets/screenshots/message-board-framed.webp"
+                                    srcSet="/assets/images/screenshots/message-board-framed.webp"
                                     type="image/webp"
                                 />
                                 <img
-                                    src="/assets/screenshots/message-board-framed.png"
+                                    src="/assets/images/screenshots/message-board-framed.png"
                                     alt="Message Board"
                                 />
                                 <figcaption className="align-top justify-right dot dot--yellow">
@@ -348,11 +348,11 @@ export default function VideoModal() {
                         <div className="screenshot">
                             <picture>
                                 <source
-                                    srcSet="/assets/screenshots/schedule-framed-75e85dfe41ce35fe0525b5a3724a5d55d5ff93a4168a41d209946a1e73a0f2e5.webp"
+                                    srcSet="/assets/images/screenshots/schedule-framed-75e85dfe41ce35fe0525b5a3724a5d55d5ff93a4168a41d209946a1e73a0f2e5.webp"
                                     type="image/webp"
                                 />
                                 <img
-                                    src="/assets/screenshots/schedule-framed.png"
+                                    src="/assets/images/screenshots/schedule-framed.png"
                                     alt="Schedule"
                                 />
                             </picture>
@@ -372,11 +372,11 @@ export default function VideoModal() {
                         <div className="screenshot screenshot--has-captions">
                             <picture>
                                 <source
-                                    srcSet="/assets/screenshots/to-dos-framed.webp"
+                                    srcSet="/assets/images/screenshots/to-dos-framed.webp"
                                     type="image/webp"
                                 />
                                 <img
-                                    src="/assets/screenshots/to-dos-framed.png"
+                                    src="/assets/images/screenshots/to-dos-framed.png"
                                     alt="To-dos"
                                 />
                                 <figcaption className="align-top justify-left dot dot--yellow">
@@ -408,11 +408,11 @@ export default function VideoModal() {
                         <div className="screenshot screenshot--has-captions">
                             <picture>
                                 <source
-                                    srcSet="/assets/screenshots/hill-charts.webp"
+                                    srcSet="/assets/images/screenshots/hill-charts.webp"
                                     type="image/webp"
                                 />
                                 <img
-                                    src="/assets/screenshots/hill-charts.png"
+                                    src="/assets/images/screenshots/hill-charts.png"
                                     alt="Hill Charts"
                                 />
                                 <figcaption className="align-top justify-left dot dot--blue">
@@ -453,11 +453,11 @@ export default function VideoModal() {
                         <div className="screenshot screenshot--has-captions">
                             <picture>
                                 <source
-                                    srcSet="/assets/screenshots/lineup-framed.webp"
+                                    srcSet="/assets/images/screenshots/lineup-framed.webp"
                                     type="image/webp"
                                 />
                                 <img
-                                    src="/assets/screenshots/lineup-framed.png"
+                                    src="/assets/images/screenshots/lineup-framed.png"
                                     alt="Lineup"
                                 />
                                 <figcaption className="align-top justify-right dot dot--yellow">
@@ -487,11 +487,11 @@ export default function VideoModal() {
                         <div className="screenshot screenshot--has-captions">
                             <picture>
                                 <source
-                                    srcSet="/assets/screenshots/doors-framed.webp"
+                                    srcSet="/assets/images/screenshots/doors-framed.webp"
                                     type="image/webp"
                                 />
                                 <img
-                                    src="/assets/screenshots/doors-framed.png"
+                                    src="/assets/images/screenshots/doors-framed.png"
                                     alt="Doors"
                                 />
                                 <figcaption className="align-bottom justify-right dot dot--teal">

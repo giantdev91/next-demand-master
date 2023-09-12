@@ -2040,7 +2040,7 @@ table th {
 }
 
 .checklist dl dd {
-    background-image: url(/assets/new/icon-check-9d7dc87deb3febbb9bc43d0b384d97e8b4faafc56b6cbe0dd37813db41715427.svg);
+    background-image: url(/assets/images/icon-check.svg);
     background-position: left 0.1em;
     background-repeat: no-repeat;
     background-size: 1.1em 1.1em;
@@ -2509,7 +2509,7 @@ table th {
 }
 
 .features__control--prev a {
-    background-image: url(/assets/new/icon-prev-a22be544fd2e0c58ae289c0e8d9cdb2df5d2dd12e67be495f50fe59462e94f91.svg);
+    background-image: url(/assets/images/icon-prev.svg);
     background-position: 0.3em center;
     border-radius: 0 0.9em 0.9em 0;
 }
@@ -2523,7 +2523,7 @@ table th {
 }
 
 .features__control--next a {
-    background-image: url(/assets/new/icon-next-2f7b1c093542b8076530197af4a7a510f3e3a18826e205fc77bcb0cfa2c1627f.svg);
+    background-image: url(/assets/images/icon-next.svg);
     background-position: 0.6em center;
     border-radius: 0.9em 0 0 0.9em;
 }
