@@ -10790,16 +10790,54 @@ html.video-modal-active .video-modal {
 }
 
 .play-view .channel .channel-back {
-    width: 60%;
-    height: 12em;
+    width: 70%;
+    height: 17em;
     border: solid 1px var(--color-black);
     border-radius: 0.4rem;
     padding: 0.5em;
 }
 
+.play-view .channel .channel-back p {
+    font-size: var(--font-size-x-small);
+    text-align: left;
+}
+
 .play-view .channel .channel-back h6 {
     font-size: var(--font-size-small);
     text-align: left;
+}
+
+.play-view .channel .channel-back .article-option {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.5em;
+    margin: 0.8rem 0.5rem;
+}
+
+.play-view .channel .channel-back .article-option img {
+    width: 0.8em;
+}
+
+.play-view .channel .channel-back .meter-back {
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.play-view .channel .channel-back .meter-back img {
+    width: 7em;
+}
+
+.play-view .channel .channel-back .install-play-button {
+    width: 7em;
+    background-color: #ef8202;
+    color: var(--color-white);
+    border-radius: 0.3rem;
+}
+
+.play-view .channel .channel-back .install-play-button span {
+    font-size: var(--font-size-small);
 }
 
 .integration-type {
@@ -11210,4 +11248,77 @@ html.video-modal-active .video-modal {
 section.terms-of-policy {
     font-size: 1rem;
     line-height: 2rem;
+}
+
+.integration-detail {
+    width: min(100%, var(--max-width-medium));
+    margin-inline: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.integration-detail .data-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1.5em;
+    gap: 1em;
+}
+
+.integration-detail .data-row .first-row-image {
+    margin: -5em 0em;
+}
+
+@media (max-width: 768px) {
+    .integration-detail .data-row {
+        flex-direction: column;
+    }
+    .integration-detail .data-row .first-row-image {
+        margin: 0em;
+    }
+}
+
+.integration-detail .data-row .content-section {
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.integration-detail .data-row .content-section h2,
+h3,
+h4,
+p {
+    text-align: left;
+}
+
+.integration-detail .data-row .image-section {
+    display: flex;
+    flex: 3;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.integration-detail .data-row .image-section img {
+    width: 30em;
+}
+
+.integration-detail .data-row button {
+    padding: 0.1rem 1rem;
+    border-radius: 0.5rem;
+    background-color: var(--color-white);
+}
+
+.integration-detail .data-row button span {
+    font-size: var(--font-size-x-small);
+    font-weight: 600;
+    color: var(--color-black-dark);
+}
+
+.integration-detail .data-row .content-section p {
+    font-size: 70%;
 }

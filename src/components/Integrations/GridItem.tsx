@@ -21,7 +21,7 @@ export default function GridItem({ image, content }: {
             </figure>
             <div className="content">
                 <p>{content}</p>
-                <a><p className='link'>Learn more &gt;</p></a>
+                <a href="/integrations/detail"><p className='link'>Learn more &gt;</p></a>
             </div>
         </div>
     )

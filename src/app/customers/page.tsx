@@ -395,18 +395,6 @@ export default function Customers() {
 
                     {/* footer start */}
                     <div className="footer__recognition recognition space-top--xxx-large">
-                        {/* <div className="recognition__badge recognition__badge--app-store">
-                            <picture>
-                                <source srcSet="/assets/images/recognition/badge-app-store.webp" type="image/webp" />
-                                <img src="/assets/images/recognition/badge-app-store.png" alt="" />
-                            </picture>
-                        </div>
-                        <div className="recognition__badge recognition__badge--google-play">
-                            <picture>
-                                <source srcSet="/assets/images/recognition/badge-google-play.webp" type="image/webp" />
-                                <img src="/assets/images/recognition/badge-google-play.png" alt="" />
-                            </picture>
-                        </div> */}
                         <div className="recognition__badges customer-footer">
                             <picture>
                                 <img src="/assets/images/recognition/footer-thumb-001.png" alt="" />

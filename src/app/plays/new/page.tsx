@@ -40,6 +40,24 @@ export default function PlayView() {
                         <div className="channel">
                             <div className="channel-back">
                                 <h6>Channels</h6>
+                                <div className="article-option">
+                                    <img src="/assets/images/play/globe-network-icon.png" />
+                                    <p>Website Visitor Tracking</p>
+                                </div>
+                                <div className="article-option">
+                                    <img src="/assets/images/play/linkedin-square-icon.png" />
+                                    <p>LinkedIn</p>
+                                </div>
+                                <div className="article-option">
+                                    <img src="/assets/images/play/envelope-icon.png" />
+                                    <p>Email</p>
+                                </div>
+                                <h6>Impact of Play: Very High</h6>
+                                <div className="meter-back">
+                                    <img src="/assets/images/play/meter.png" />
+                                </div>
+
+                                <button className="install-play-button"><span>Install Play</span></button>
                             </div>
                         </div>
                     </section>
