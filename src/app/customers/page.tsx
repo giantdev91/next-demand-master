@@ -397,14 +397,14 @@ export default function Customers() {
                     <div className="footer__recognition recognition space-top--xxx-large">
                         {/* <div className="recognition__badge recognition__badge--app-store">
                             <picture>
-                                <source srcSet="/assets/images/recognition/badge-app-store-9b22e2dfb1476c2f64248b9b3519ea388e8424f2078f334f5f16a87ed0b35be6.webp" type="image/webp" />
-                                <img src="/assets/images/recognition/badge-app-store-17630de1b21cdf3337036c3bfc0550c15c66e24d4842fcb9ae085a2724531db4.png" alt="" />
+                                <source srcSet="/assets/images/recognition/badge-app-store.webp" type="image/webp" />
+                                <img src="/assets/images/recognition/badge-app-store.png" alt="" />
                             </picture>
                         </div>
                         <div className="recognition__badge recognition__badge--google-play">
                             <picture>
-                                <source srcSet="/assets/images/recognition/badge-google-play-8388ddf3422ddd0b9a22dfb1702ac595ae626719053e2e05828d46fa991b81b6.webp" type="image/webp" />
-                                <img src="/assets/images/recognition/badge-google-play-08d2150033900dad48d932a7334e596734e868d88e702dc596bdf0fceb103be4.png" alt="" />
+                                <source srcSet="/assets/images/recognition/badge-google-play.webp" type="image/webp" />
+                                <img src="/assets/images/recognition/badge-google-play.png" alt="" />
                             </picture>
                         </div> */}
                         <div className="recognition__badges customer-footer">
