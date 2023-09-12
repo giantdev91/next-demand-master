@@ -1,3 +1,5 @@
+'use client';
+
 export default function VideoModal() {
     return (
         <section>
@@ -25,6 +27,10 @@ export default function VideoModal() {
                                     data-event="A Quick Overview"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     allowFullScreen={true}
+                                    style={{
+                                        width: '80vw',
+                                        height: '85vh'
+                                    }}
                                 ></iframe>
                                 <button>
                                     <span>Watch “A Quick Overview”</span>
@@ -43,6 +49,10 @@ export default function VideoModal() {
                                     data-event="Made in Basecamp"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     allowFullScreen={true}
+                                    style={{
+                                        width: '80vw',
+                                        height: '85vh'
+                                    }}
                                 ></iframe>
                                 <button>
                                     <span>Watch “Made in Basecamp”</span>
@@ -61,6 +71,10 @@ export default function VideoModal() {
                                     height="auto"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     allowFullScreen={true}
+                                    style={{
+                                        width: '80vw',
+                                        height: '85vh'
+                                    }}
                                 ></iframe>
                                 <button>
                                     <span>Watch “Organizing a Meet-up”</span>
@@ -79,6 +93,10 @@ export default function VideoModal() {
                                     height="auto"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     allowFullScreen={true}
+                                    style={{
+                                        width: '80vw',
+                                        height: '85vh'
+                                    }}
                                 ></iframe>
                                 <button>
                                     <span>
@@ -109,6 +127,10 @@ export default function VideoModal() {
                                     height="auto"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     allowFullScreen={true}
+                                    style={{
+                                        width: '80vw',
+                                        height: '85vh'
+                                    }}
                                 ></iframe>
                                 <button>
                                     <span>Watch “Chief Meetings Officer”</span>
@@ -138,6 +160,10 @@ export default function VideoModal() {
                                     height="auto"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     allowFullScreen={true}
+                                    style={{
+                                        width: '80vw',
+                                        height: '85vh'
+                                    }}
                                 ></iframe>
                                 <button>
                                     <span>Watch “The Future”</span>
@@ -167,6 +193,10 @@ export default function VideoModal() {
                                     height="auto"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     allowFullScreen={true}
+                                    style={{
+                                        width: '80vw',
+                                        height: '85vh'
+                                    }}
                                 ></iframe>
                                 <button>
                                     <span>Watch “Dance Party”</span>
@@ -196,6 +226,10 @@ export default function VideoModal() {
                                     height="auto"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     allowFullScreen={true}
+                                    style={{
+                                        width: '80vw',
+                                        height: '85vh'
+                                    }}
                                 ></iframe>
                                 <button>
                                     <span>Watch “Mail”</span>
