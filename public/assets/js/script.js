@@ -219,8 +219,8 @@ class modal {
                     if (e.querySelector(".video")) {
                         var t = e.querySelector("iframe");
                         t.removeAttribute("controls"),
-                        t.pause(),
-                        t.load(),
+                        // t.pause(),
+                        // t.load(),
                         e.querySelector(".video__embed").classList.remove("video__embed--playing"),
                         document.querySelector(".uo-modal").classList.remove("uo-modal--video")
                     }

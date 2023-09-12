@@ -4,7 +4,8 @@ export default function VideoModal() {
             <div className="uo-modal uo-modal--video">
                 <div className="uo-modal__background"></div>
                 <div className="uo-modal__container">
-                    <div className="uo-modal__content uo-modal__content--a-quick-overview uo-modal__content--open">
+
+                    <div className="uo-modal__content uo-modal__content--a-quick-overview ">
                         <div className="video video--full">
                             <div className="video__embed video__embed--playing">
                                 {/* <video
@@ -22,12 +23,7 @@ export default function VideoModal() {
                                     width="100%"
                                     height="auto"
                                     data-event="A Quick Overview"
-                                    // preload="none"
-                                    // poster="/assets/home/a-quick-overview-d393c3d3f3334f815fe3294c017045dad4e7441269ed85f7319b30fa8b390edc.webp"
                                     src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
-                                    // width="100%"
-                                    // playsInline={false}
-                                    // controls={true}
                                     allowFullScreen={true}
                                 ></iframe>
                                 <button>
@@ -36,17 +32,17 @@ export default function VideoModal() {
                             </div>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--made-in-basecamp">
                         <div className="video video--full">
                             <div className="video__embed">
                                 <iframe
                                     id="made-in-basecamp"
-                                    data-event="Made in Basecamp"
-                                    // preload="none"
-                                    // poster="/assets/made-in-basecamp/made-in-basecamp-d9939c2376e5b49fbcf56c5a5f2b693b4dff1626f34a5b7896ea24f87761bb46.webp"
-                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     width="100%"
-                                // playsInline={false}
+                                    height="auto"
+                                    data-event="Made in Basecamp"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
+                                    allowFullScreen={true}
                                 ></iframe>
                                 <button>
                                     <span>Watch “Made in Basecamp”</span>
@@ -54,17 +50,17 @@ export default function VideoModal() {
                             </div>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--organizing-a-meet-up">
                         <div className="video video--full">
                             <div className="video__embed">
                                 <iframe
                                     id="organizing-a-meet-up"
                                     data-event="Organizing a Meet-up"
-                                    // preload="none"
-                                    // poster="/assets/organizing-a-meet-up/organizing-a-meet-up-318fd3b80b43b8d6a45ef1d6f6d031f599359cfe73f4835907330e439ac12685.webp"
-                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     width="100%"
-                                // playsInline={false}
+                                    height="auto"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
+                                    allowFullScreen={true}
                                 ></iframe>
                                 <button>
                                     <span>Watch “Organizing a Meet-up”</span>
@@ -72,22 +68,137 @@ export default function VideoModal() {
                             </div>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--hilary-fitzgerald-campbell">
                         <div className="video video--full">
                             <div className="video__embed">
                                 <iframe
                                     id="hilary-fitzgerald-campbell"
                                     data-event="Hilary Fitzgerald Campbell"
-                                    // preload="none"
-                                    // poster="/assets/hilary-fitzgerald-campbell/hilary-fitzgerald-campbell-942634ac54365a9d90d1b9ee13ad3ee2769fd57c891917722bc574ccbc2e6be7.webp"
-                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
                                     width="100%"
-                                // playsInline={false}
+                                    height="auto"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
+                                    allowFullScreen={true}
                                 ></iframe>
                                 <button>
                                     <span>
                                         Watch “Hilary Fitzgerald Campbell”
                                     </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="uo-modal__content uo-modal__content--the-future-chief-meetings-officer ">
+                        <div className="video video--full">
+                            <div className="video__embed video__embed--playing">
+                                {/* <video
+                                    id="the-future-chief-meetings-officer"
+                                    data-event="The Future: Chief Meetings Officer"
+                                    preload="none"
+                                    poster="/assets/jlmdmj/the-future-chief-meetings-officer-c5302e9d1e43f9b26469bd78237d63441e97b7f44e34be8e33fda39e335a095b.webp"
+                                    src="/assets/jlmdmj/the-future-chief-meetings-officer-4fd0e5e00bb94d8afc097c0f8aa59c99c063d56fa280a3d8d5ab91ebb1ec837b.mp4"
+                                    type="video/mp4"
+                                    width="100%" playsinline=""
+                                    controls="controls">
+                                </video> */}
+                                <iframe
+                                    id="the-future-chief-meetings-officer"
+                                    data-event="The Future: Chief Meetings Officer"
+                                    width="100%"
+                                    height="auto"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
+                                    allowFullScreen={true}
+                                ></iframe>
+                                <button>
+                                    <span>Watch “Chief Meetings Officer”</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="uo-modal__content uo-modal__content--the-future-extended ">
+                        <div className="video video--full">
+                            <div className="video__embed video__embed--playing">
+                                {/* <video
+                                    id="the-future-extended"
+                                    data-event="The Future: Extended"
+                                    preload="none"
+                                    poster="/assets/jlmdmj/the-future-extended-11e292855776783e06e382d081486a5d4d648c5c2fb2beb481bcd580f79ec086.webp"
+                                    src="/assets/jlmdmj/the-future-extended-705dcd2af0db99a61c28b5f1d31f7900eb5e0af6cdc9daba79c2420827dbe2d7.mp4"
+                                    type="video/mp4"
+                                    width="100%"
+                                    playsinline=""
+                                    controls="controls">
+                                </video> */}
+                                <iframe
+                                    id="the-future-extended"
+                                    data-event="The Future: Extended"
+                                    width="100%"
+                                    height="auto"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
+                                    allowFullScreen={true}
+                                ></iframe>
+                                <button>
+                                    <span>Watch “The Future”</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="uo-modal__content uo-modal__content--the-future-dance-party ">
+                        <div className="video video--full">
+                            <div className="video__embed video__embed--playing">
+                                {/* <video
+                                    id="the-future-dance-party"
+                                    data-event="The Future: Dance Party"
+                                    preload="none"
+                                    poster="/assets/jlmdmj/the-future-dance-party-f36251ddc51f59df2ef19caa14b060f436188c79728daf23e46995200c8650ca.webp"
+                                    src="/assets/jlmdmj/the-future-dance-party-31c4d3b5bd6e26a39beef8f92c52bca517102f284969ff8661e4401f6fa8430d.mp4"
+                                    type="video/mp4"
+                                    width="100%"
+                                    playsinline=""
+                                    controls="controls">
+                                </video> */}
+                                <iframe
+                                    id="the-future-dance-party"
+                                    data-event="The Future: Dance Party"
+                                    width="100%"
+                                    height="auto"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
+                                    allowFullScreen={true}
+                                ></iframe>
+                                <button>
+                                    <span>Watch “Dance Party”</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="uo-modal__content uo-modal__content--the-future-mail ">
+                        <div className="video video--full">
+                            <div className="video__embed video__embed--playing">
+                                {/* <video
+                                    id="the-future-mail"
+                                    data-event="The Future: Mail"
+                                    preload="none"
+                                    poster="/assets/jlmdmj/the-future-mail-87831ca947981b04e754b06eac339837491c27edc5ab78be0b829226f226605a.webp"
+                                    src="/assets/jlmdmj/the-future-mail-524b67b55efcef77dd12b6295da6fe02e0a92d696c6a3b2d28e107dba2487695.mp4"
+                                    type="video/mp4"
+                                    width="100%"
+                                    playsinline=""
+                                    controls="controls">
+                                </video> */}
+                                <iframe
+                                    id="the-future-mail"
+                                    data-event="The Future: Mail"
+                                    width="100%"
+                                    height="auto"
+                                    src="https://www.youtube.com/embed/SePcsn4MuvU?autoplay=1"
+                                    allowFullScreen={true}
+                                ></iframe>
+                                <button>
+                                    <span>Watch “Mail”</span>
                                 </button>
                             </div>
                         </div>
@@ -116,6 +227,7 @@ export default function VideoModal() {
                             </picture>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--card-table">
                         <header>
                             <div className="uo-pill uo-pill--tool uo-pill--card-table">
@@ -150,6 +262,7 @@ export default function VideoModal() {
                             </picture>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--docs-and-files">
                         <header>
                             <div className="uo-pill uo-pill--tool uo-pill--docs-and-files">
@@ -174,6 +287,7 @@ export default function VideoModal() {
                             </picture>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--message-board">
                         <header>
                             <div className="uo-pill uo-pill--tool uo-pill--message-board">
@@ -220,6 +334,7 @@ export default function VideoModal() {
                             </picture>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--schedule">
                         <header>
                             <div className="uo-pill uo-pill--tool uo-pill--schedule">
@@ -243,6 +358,7 @@ export default function VideoModal() {
                             </picture>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--to-dos">
                         <header>
                             <div className="uo-pill uo-pill--tool uo-pill--to-dos">
@@ -281,6 +397,7 @@ export default function VideoModal() {
                             </picture>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--hill-charts">
                         <header>
                             <p>
@@ -325,6 +442,7 @@ export default function VideoModal() {
                             </picture>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--lineup">
                         <header>
                             <p>
@@ -358,6 +476,7 @@ export default function VideoModal() {
                             </picture>
                         </div>
                     </div>
+
                     <div className="uo-modal__content uo-modal__content--doors">
                         <header>
                             <p>
@@ -387,6 +506,7 @@ export default function VideoModal() {
                         </div>
                     </div>
                 </div>
+
                 <button className="uo-modal__close" aria-label="Close Modal">
                     <span>Close</span>
                     <svg
