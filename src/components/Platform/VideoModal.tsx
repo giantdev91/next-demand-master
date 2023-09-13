@@ -3,7 +3,7 @@
 export default function VideoModal() {
     return (
         <section>
-            <div className="uo-modal uo-modal--video">
+            <div className="uo-modal">
                 <div className="uo-modal__background"></div>
                 <div className="uo-modal__container">
 
@@ -540,7 +540,6 @@ export default function VideoModal() {
                         </div>
                     </div>
                 </div>
-
                 <button className="uo-modal__close" aria-label="Close Modal">
                     <span>Close</span>
                     <svg
